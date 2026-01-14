@@ -1,0 +1,87 @@
+-Departments (Departmanlar) ✅
+ -dId (PK)
+ -dName (UNIQE)
+ -dIsActive
+ -dCreatedAt
+ -İlişki: 1--N (1 departmanda n kişi çalışabilir)
+
+-Employees (Personeller) ✅
+ -eId (PK)
+ -eNo (UNIQE)
+ -eFullName
+ -eDepartmentId (FK -- Departments.Id)
+ -eMail
+ -ePhone
+ -eHireDate
+ -eIsActive
+ -İlişkiler: 
+  -Employees (1) ---- (1) Departments (1 kişi 1 departmanda çalışabilir)
+  -Employees (1) ---- (N) LeaveRequests (1 kişinin n izin talebi olabilir)
+
+-LeaveTypes (İzinTürleri) ✅
+ -ltId (PK)
+ -ltName (yıllık izin, özel izin, hastalık izni, annelik izni)
+ -ltColorHex (Badge Rengi)
+ -ltIsActive
+ -İlişki: 
+  -LeaveTypes (1) ---- (N) LeaveRequests (1 izin türünden n tane izin talebi oluşturulabilir)
+
+-LeaveRequests (İzin Talepleri) ✅
+ -lrId (PK)
+ -lrEmplooyeId (FK -- Emplooyes.Id)
+ -lrLeaveTypeId (FK -- LeaveTypes.Id)
+ -lrStartDate
+ -lrEndDate
+ -lrStatus
+ -lrRequestedAt (Talep Tarihi)
+ -lrApprovedByUserId (FK -- Users.Id) (Kim onayladı)
+ -lrApprovedAt (onaylanma tarihi)
+ -İlişkiler
+  -Emplooyes (1) --- (N) LeaveRequests
+  -LeaveTypes (1) ---- (N) LeaveRequests
+  -Users (1) ---- (N) LeaveRequests
+
+-Users
+ -uId (PK)
+ -uName (UNİQUE)
+ -uPasswordHash
+ -EmplooyedId (FK -- Emplooyes.ıd, NULL olabilir (admin personel olmak zorunda değil)) 
+ -uIsActive
+ -uLastLoginAt(!)
+ -Employees (1) ---- (0..1) Users (bir personelin tek kullanıcı hesabı olabilir)
+
+-Roles
+ -rId (PK)
+ -rRoleKey (UNIQUE) (HR_Admin, Employee)
+ -rRoleName (HR_Admin, İK Yöneticisi, Personel)
+ 
+
+-UserRoles (İlişkisel Tablo)
+ -UserId (FK -- Users.Id)
+ -Roleıd (FK -- Roles.Id)
+ -Composite PK: (UserId, RoleId)
+ -Users (N) ---- (N) Roles  (ilişki çoktan çoğa)
+
+
+4) En kritik PK/FK kararlarının özeti
+
+Employees.DepartmentId → FK
+
+LeaveRequests.EmployeeId → FK
+
+LeaveRequests.LeaveTypeId → FK
+
+LeaveRequests.ApprovedByUserId → FK (nullable)
+
+Users.EmployeeId → FK (nullable)
+
+UserRoles.UserId & UserRoles.RoleId → FK + Composite PK
+
+
+-
+ -
+ -
+ -
+ -
+ -
+ -

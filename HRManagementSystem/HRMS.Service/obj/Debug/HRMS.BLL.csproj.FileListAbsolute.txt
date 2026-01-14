@@ -1,0 +1,11 @@
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Service\bin\Debug\HRMS.Service.dll
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Service\bin\Debug\HRMS.Service.pdb
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Service\bin\Debug\HRMS.DAL.dll
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Service\bin\Debug\HRMS.Domain.dll
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Service\bin\Debug\HRMS.DAL.pdb
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Service\bin\Debug\HRMS.Domain.pdb
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Service\obj\Debug\HRMS.BLL.csproj.AssemblyReference.cache
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Service\obj\Debug\HRMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Service\obj\Debug\HRMS.BLL.csproj.Up2Date
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Service\obj\Debug\HRMS.Service.dll
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Service\obj\Debug\HRMS.Service.pdb

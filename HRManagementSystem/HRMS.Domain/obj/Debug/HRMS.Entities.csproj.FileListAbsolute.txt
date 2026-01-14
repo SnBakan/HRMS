@@ -1,0 +1,6 @@
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Domain\bin\Debug\HRMS.Domain.dll
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Domain\bin\Debug\HRMS.Domain.pdb
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Domain\obj\Debug\HRMS.Entities.csproj.AssemblyReference.cache
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Domain\obj\Debug\HRMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Domain\obj\Debug\HRMS.Domain.dll
+C:\Users\seyma\Desktop\NYP\HRManagementSystem\HRManagementSystem\HRMS.Domain\obj\Debug\HRMS.Domain.pdb

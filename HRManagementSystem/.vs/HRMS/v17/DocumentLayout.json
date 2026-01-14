@@ -1,0 +1,798 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|c:\\users\\seyma\\desktop\\hrms\\hrmanagementsystem\\hrmanagementsystem\\hrms.presentation\\forms\\ownermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\ownermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\ownermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\ownermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\employeemainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\employeemainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\dailydashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\dailydashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\managermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\managermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\managermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\managermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.service\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.service\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.dal\\mysqlleaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.dal\\mysqlleaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.domain\\leaverequestshistoryrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.domain\\leaverequestshistoryrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.dal\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.dal\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\employeemainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\employeemainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\managermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\managermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\ownermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\ownermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.domain\\leaverequestapproverowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.domain\\leaverequestapproverowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\employeemainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\employeemainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.domain\\leaverequestsgridrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.domain\\leaverequestsgridrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.domain\\leaverequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.domain\\leaverequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.dal\\mysqlleaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.dal\\mysqlleaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.dal\\ileaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.dal\\ileaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.service\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.service\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.domain\\leavetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.domain\\leavetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.domain\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.domain\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.dal\\mysqlemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.dal\\mysqlemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.dal\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.dal\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\dailydashboard\\dailydashboardform.core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\dailydashboard\\dailydashboardform.core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\dailydashboard\\dailydashboardform.dailyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\dailydashboard\\dailydashboardform.dailyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\dailydashboard\\dailydashboardform.reports.leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\dailydashboard\\dailydashboardform.reports.leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\dailydashboard\\dailydashboardform.reports.salarydist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\dailydashboard\\dailydashboardform.reports.salarydist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\dailydashboard\\dailydashboardform.reports.employeedist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\dailydashboard\\dailydashboardform.reports.employeedist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\dailydashboard\\dailydashboardform.reports.performancedist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\dailydashboard\\dailydashboardform.reports.performancedist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\dailydashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\dailydashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\dailydashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\dailydashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\loginform\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\loginform\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.dal\\mysqldepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.dal\\mysqldepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.domain\\auth\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.domain\\auth\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.service\\performancerowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.service\\performancerowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.service\\leavebalancerowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.service\\leavebalancerowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.service\\dailyleaveitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.service\\dailyleaveitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.dal\\mysqlreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.dal\\mysqlreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.presentation\\forms\\loginform\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.presentation\\forms\\loginform\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.domain\\employeegridrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.domain\\employeegridrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.domain\\employeeperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.domain\\employeeperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.dal\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.dal\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\hrmanagementsystem\\hrms.domain\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADD34F-9E8E-4972-A0ED-A32A06797950}|HRManagementSystem\\HRMS.csproj|solutionrelative:hrmanagementsystem\\hrms.domain\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OwnerMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\OwnerMainForm.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\OwnerMainForm.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\OwnerMainForm.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\OwnerMainForm.cs",
+              "ViewState": "AgIAAG0CAAAAAAAAAAAqwHkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:23:20.518Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\EmployeeMainForm.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\EmployeeMainForm.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\EmployeeMainForm.cs [Design]",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\EmployeeMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T15:17:53.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OwnerMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\OwnerMainForm.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\OwnerMainForm.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\OwnerMainForm.cs [Design]",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\OwnerMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T15:17:22.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DailyDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\DailyDashboardForm.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\DailyDashboardForm.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\DailyDashboardForm.cs [Design]",
+              "RelativeToolTip": "HRManagementSystem\\DailyDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:19:47.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\ManagerMainForm.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\ManagerMainForm.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\ManagerMainForm.cs [Design]",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\ManagerMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T15:17:39.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\ManagerMainForm.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\ManagerMainForm.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\ManagerMainForm.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\ManagerMainForm.cs",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAgwIcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T15:33:43.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\LeaveRequestService.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Service\\LeaveRequestService.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\LeaveRequestService.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Service\\LeaveRequestService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T23:17:19.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MySqlLeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\MySqlLeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.DAL\\MySqlLeaveRequestRepository.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\MySqlLeaveRequestRepository.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.DAL\\MySqlLeaveRequestRepository.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T23:15:52.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveRequestsHistoryRowDto.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\LeaveRequestsHistoryRowDto.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Domain\\LeaveRequestsHistoryRowDto.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\LeaveRequestsHistoryRowDto.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Domain\\LeaveRequestsHistoryRowDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T00:55:50.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\ILeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.DAL\\ILeaveRequestRepository.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\ILeaveRequestRepository.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.DAL\\ILeaveRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T23:15:11.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\EmployeeMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\EmployeeMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\EmployeeMainForm.Designer.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\EmployeeMainForm.Designer.cs",
+              "ViewState": "AgIAAIgCAAAAAAAAAAAvwKACAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T15:36:44.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\ManagerMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\ManagerMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\ManagerMainForm.Designer.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\ManagerMainForm.Designer.cs",
+              "ViewState": "AgIAAEQCAAAAAAAAAAAvwFQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:31:46.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OwnerMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\OwnerMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\OwnerMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\OwnerMainForm.Designer.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\OwnerMainForm.Designer.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAvwOwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T15:31:08.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaveRequestApproveRowDto.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\LeaveRequestApproveRowDto.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Domain\\LeaveRequestApproveRowDto.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\LeaveRequestApproveRowDto.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Domain\\LeaveRequestApproveRowDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T23:45:42.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\EmployeeMainForm.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\EmployeeMainForm.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\EmployeeMainForm.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\EmployeeMainForm.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T15:41:41.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeaveRequestsGridRowDto.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\LeaveRequestsGridRowDto.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Domain\\LeaveRequestsGridRowDto.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\LeaveRequestsGridRowDto.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Domain\\LeaveRequestsGridRowDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T23:14:37.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeaveRequests.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\LeaveRequests.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Domain\\LeaveRequests.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\LeaveRequests.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Domain\\LeaveRequests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T23:13:21.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MySqlLeaveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\MySqlLeaveRepository.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.DAL\\MySqlLeaveRepository.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\MySqlLeaveRepository.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.DAL\\MySqlLeaveRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T22:34:30.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ILeaveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\ILeaveRepository.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.DAL\\ILeaveRepository.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\ILeaveRepository.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.DAL\\ILeaveRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T22:34:00.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LeaveService.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\LeaveService.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Service\\LeaveService.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\LeaveService.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Service\\LeaveService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T22:35:24.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LeaveTypes.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\LeaveTypes.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Domain\\LeaveTypes.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\LeaveTypes.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Domain\\LeaveTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T22:33:35.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Service\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\DepartmentService.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Service\\DepartmentService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:34:32.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\Employees.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Domain\\Employees.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\Employees.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Domain\\Employees.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T21:43:00.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\EmployeeService.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Service\\EmployeeService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T23:18:17.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MySqlEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\MySqlEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.DAL\\MySqlEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\MySqlEmployeeRepository.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.DAL\\MySqlEmployeeRepository.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAswM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T23:16:18.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.DAL\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\IEmployeeRepository.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.DAL\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T23:14:10.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DailyDashboardForm.Core.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Core.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Core.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Core.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Core.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAQwNIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:20:19.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DailyDashboardForm.DailyReport.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.DailyReport.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.DailyReport.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.DailyReport.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.DailyReport.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T23:58:01.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DailyDashboardForm.Reports.LeaveBalance.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.LeaveBalance.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.LeaveBalance.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.LeaveBalance.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.LeaveBalance.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAApwEUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:48:26.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DailyDashboardForm.Reports.SalaryDist.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.SalaryDist.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.SalaryDist.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.SalaryDist.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.SalaryDist.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwFkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:50:15.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DailyDashboardForm.Reports.EmployeeDist.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.EmployeeDist.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.EmployeeDist.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.EmployeeDist.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.EmployeeDist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:47:53.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DailyDashboardForm.Reports.PerformanceDist.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.PerformanceDist.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.PerformanceDist.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.PerformanceDist.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\DailyDashboard\\DailyDashboardForm.Reports.PerformanceDist.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:48:42.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DailyDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\DailyDashboardForm.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\DailyDashboardForm.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\DailyDashboardForm.cs",
+              "RelativeToolTip": "HRManagementSystem\\DailyDashboardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:19:54.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DailyDashboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\DailyDashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\DailyDashboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\DailyDashboardForm.Designer.cs",
+              "RelativeToolTip": "HRManagementSystem\\DailyDashboardForm.Designer.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAjwDgBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T23:58:09.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\LoginForm\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\LoginForm\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\LoginForm\\LoginForm.Designer.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\LoginForm\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAjwMwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:26:53.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MySqlDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\MySqlDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.DAL\\MySqlDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\MySqlDepartmentRepository.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.DAL\\MySqlDepartmentRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwFkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:33:50.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\Auth\\UserDto.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Domain\\Auth\\UserDto.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\Auth\\UserDto.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Domain\\Auth\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T02:52:36.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PerformanceRowDto.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\PerformanceRowDto.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Service\\PerformanceRowDto.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\PerformanceRowDto.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Service\\PerformanceRowDto.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwDYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T02:38:25.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Context\\UserContext.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Context\\UserContext.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Context\\UserContext.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Context\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T02:36:57.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LeaveBalanceRowDto.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\LeaveBalanceRowDto.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Service\\LeaveBalanceRowDto.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\LeaveBalanceRowDto.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Service\\LeaveBalanceRowDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T02:38:23.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\ReportService.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Service\\ReportService.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\ReportService.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Service\\ReportService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAewFkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T00:12:04.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MySqlReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\MySqlReportRepository.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.DAL\\MySqlReportRepository.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\MySqlReportRepository.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.DAL\\MySqlReportRepository.cs",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAMwFgBAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T23:59:09.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DailyLeaveItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\DailyLeaveItemDto.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Service\\DailyLeaveItemDto.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Service\\DailyLeaveItemDto.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Service\\DailyLeaveItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T23:15:29.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\LoginForm\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Presentation\\Forms\\LoginForm\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Presentation\\Forms\\LoginForm\\LoginForm.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Presentation\\Forms\\LoginForm\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T23:57:07.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EmployeeGridRowDto.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\EmployeeGridRowDto.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Domain\\EmployeeGridRowDto.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\EmployeeGridRowDto.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Domain\\EmployeeGridRowDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T23:12:10.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EmployeePerformance.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\EmployeePerformance.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Domain\\EmployeePerformance.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\EmployeePerformance.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Domain\\EmployeePerformance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T00:15:42.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.DAL\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.DAL\\IDepartmentRepository.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.DAL\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:15:10.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Departments.cs",
+              "DocumentMoniker": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\Departments.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\HRMS.Domain\\Departments.cs",
+              "ToolTip": "C:\\Users\\seyma\\Desktop\\HRMS\\HRManagementSystem\\HRManagementSystem\\HRMS.Domain\\Departments.cs",
+              "RelativeToolTip": "HRManagementSystem\\HRMS.Domain\\Departments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:34:27.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
