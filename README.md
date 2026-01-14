@@ -67,6 +67,13 @@ Bu proje, Katmanlı Mimari (Presentation / Service / Domain / DAL) kullanılarak
 
 ---
 
+## 👩🏻‍💻 Demo kullanıcılar
+- Owner: `Şeyma Nur BAKAN / Owner`
+- Manager: `Mert Karan / Manager`
+- Employee: `Mira Acar / Employee`
+
+---
+
 ## 📸 Video 
  - Youtube proje tanıtım videosu izlemek için
    
@@ -142,7 +149,8 @@ Bu proje, Katmanlı Mimari (Presentation / Service / Domain / DAL) kullanılarak
 ## 🚀 Kurulum
 1. Projeyi klonlayın:
    ```bash
-   https://github.com/SnBakan/HRMS.git
+  git clone https://github.com/SnBakan/HRMS.git
+  
 2. Visual Studio ile Solution’ı açın.
 
 3. MySQL bağlantı ayarlarınızı ConnectionStrings üzerinden düzenleyin.
