@@ -38,12 +38,14 @@ Bu proje, Katmanlı Mimari (Presentation / Service / Domain / DAL) kullanılarak
 - **Geçmiş İzinlerim**
 - **İzin Talepleri (Onay/Red)**
 - **Geçmiş Personel İzinleri**
+- **Personel Yönetimi**
+- **Departman Yönetimi**
 - **Raporlar**
   - Günlük Rapor
-  - Kalan İzin Hakları Dağılımı
-  - Personel Dağılımı
-  - Maaş Dağılımı
-  - Performans Dağılımı
+  - Kalan İzin Hakları Dağılım Raporu
+  - Personel Dağılım Raporu
+  - Maaş Dağılım Raporu
+  - Performans Dağılım Raporu
 
 ---
 
@@ -72,7 +74,13 @@ Bu proje, Katmanlı Mimari (Presentation / Service / Domain / DAL) kullanılarak
 
 ## 📸 Ekran Görüntüleri
 - Login ve Rol Bazlı Giriş
-  <img width="632" height="784" alt="image" src="https://github.com/user-attachments/assets/b8c47384-aa31-4b01-8ffd-72767c1d933f" />
+
+
+
+   <img width="632" height="784" alt="image" src="https://github.com/user-attachments/assets/b8c47384-aa31-4b01-8ffd-72767c1d933f" />
+
+
+
 
 
 - Owner - Main Ekranı
@@ -134,7 +142,7 @@ Bu proje, Katmanlı Mimari (Presentation / Service / Domain / DAL) kullanılarak
 ## 🚀 Kurulum
 1. Projeyi klonlayın:
    ```bash
-   [git clone <repo-url>](https://github.com/SnBakan/HRMS.git)
+   https://github.com/SnBakan/HRMS.git
 2. Visual Studio ile Solution’ı açın.
 
 3. MySQL bağlantı ayarlarınızı ConnectionStrings üzerinden düzenleyin.
