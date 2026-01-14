@@ -148,8 +148,7 @@ Bu proje, Katmanlı Mimari (Presentation / Service / Domain / DAL) kullanılarak
 
 ## 🚀 Kurulum
 1. Projeyi klonlayın:
-   ```bash
-  git clone https://github.com/SnBakan/HRMS.git
+   ```bash git clone https://github.com/SnBakan/HRMS.git
   
 2. Visual Studio ile Solution’ı açın.
 
