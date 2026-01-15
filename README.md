@@ -79,7 +79,26 @@ Bu proje, Katmanlı Mimari (Presentation / Service / Domain / DAL) kullanılarak
    
 ---
 
+## Diyagramlar
+
+ - Roller Diyagramı 
+ <img width="494" height="396" alt="image" src="https://github.com/user-attachments/assets/6029f5ae-a96b-4386-9681-d70e70a76c9c" />
+
+ - DB Diyagramı
+ <img width="8192" height="7517" alt="DB - ER Diyagramı" src="https://github.com/user-attachments/assets/5719991e-d729-4913-8354-0596ca303491" />
+   
+ - Katman Diyagramı
+ <img width="1045" height="2821" alt="Katman Mimarisi" src="https://github.com/user-attachments/assets/c24d4ee8-a2ef-44ee-a4b4-0cef44a4d7e9" />
+
+ - Talep Süreci Diyagramı
+ <img width="8095" height="1955" alt="İzin Talebi Oluşturma Diyagramı" src="https://github.com/user-attachments/assets/bcb51033-58fa-409a-b0e2-c9301e33bd3f" />
+
+ 
+
+---
+
 ## 📸 Ekran Görüntüleri
+
 - Login ve Rol Bazlı Giriş
 
 
