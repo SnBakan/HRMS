@@ -75,7 +75,7 @@ Bu proje, Katmanlı Mimari (Presentation / Service / Domain / DAL) kullanılarak
 ---
 
 ## 📸 Video 
- - Youtube proje tanıtım videosu izlemek için
+ - Youtube proje tanıtım videosu izlemek için: https://youtu.be/oeKrLVZxHZw
    
 ---
 
