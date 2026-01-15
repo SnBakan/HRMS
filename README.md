@@ -82,7 +82,7 @@ Bu proje, Katmanlı Mimari (Presentation / Service / Domain / DAL) kullanılarak
 ## Diyagramlar
 
  - Roller Diyagramı 
- <img width="494" height="396" alt="image" src="https://github.com/user-attachments/assets/6029f5ae-a96b-4386-9681-d70e70a76c9c" />
+ <img width="671" height="587" alt="Roller Diyagramı" src="https://github.com/user-attachments/assets/11ab5a97-1100-43a0-a4c6-0e3eb0993d79" />
 
  - DB Diyagramı
  <img width="8192" height="7517" alt="DB - ER Diyagramı" src="https://github.com/user-attachments/assets/5719991e-d729-4913-8354-0596ca303491" />
